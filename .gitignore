@@ -46,3 +46,6 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
+
+# Ignore 3rd Party folder
+/Assets/3rd Party/
