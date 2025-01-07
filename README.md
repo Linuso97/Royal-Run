@@ -7,7 +7,7 @@ Royal Run is a 3D endless runner game where players must navigate obstacles and 
 Play the Game
 If you'd like to try the game out, you can play it here:
 
-Royal Run on Itch.io
+https://sadsven.itch.io/royal-run
 
 Features
 Endless running: Avoid obstacles, and keep running.
